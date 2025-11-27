@@ -20,6 +20,8 @@ Badges
 - Emphasis on reproducible experiments, clear documentation, and ethical research practices.
 - Foster a mentorship pipeline for junior researchers.
 
+![Uploading image.png…]()
+
 ## Organization
 Three core departments:
 - Research Department: paper writing, experimental design, model architecture.
