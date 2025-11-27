@@ -20,7 +20,7 @@ Badges
 - Emphasis on reproducible experiments, clear documentation, and ethical research practices.
 - Foster a mentorship pipeline for junior researchers.
 
-![Uploading image.png…]()
+<img width="1516" height="582" alt="image" src="https://github.com/user-attachments/assets/ececa4d4-fbd7-4ee0-a33c-3ee399b4836a" />
 
 ## Organization
 Three core departments:
