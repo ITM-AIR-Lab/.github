@@ -40,21 +40,9 @@ Responsibilities: long-term strategy, funding and grants, partnerships, and ethi
   - Lab news and technical articles
 - Host regular seminars, workshops, and hackathons.
 
-## Logo
-- Based on a modified Lemniscate of Gerono, symbolizing infinite learning, mathematical foundation, and balance.
-
 
 ## How to Contribute
 - Read CONTRIBUTING.md for the process.
 - Open issues for proposed projects or contributions.
 - Follow the branch/PR naming and review workflow in CONTRIBUTING.md.
 
-## Roadmap & Milestones
-See ROADMAP.md for detailed milestones and measurable KPIs for 0–12 months.
-
-## Contact
-- Lab director & maintainers: (list in GOVERNANCE.md)
-- Preferred channels: email, college slack/discord, or lab website contact form.
-
-## License
-MIT — see LICENSE file.
